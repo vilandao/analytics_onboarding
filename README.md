@@ -21,7 +21,7 @@ The purpose of this task is to
 
 - EDA notebook
 
-# Generate descriptive statistics 
+# Generate descriptive statistics
 
 # Identify trends 
 
