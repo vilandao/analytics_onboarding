@@ -19,9 +19,7 @@ The purpose of this task is to
 
 - Grab CSV from OneDrive link 
 
-- EDA notebook 
-
-- Visualizations notebook 
+- EDA notebook
 
 # Generate descriptive statistics 
 
