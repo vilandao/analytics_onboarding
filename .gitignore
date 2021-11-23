@@ -4,6 +4,7 @@
 # dirs & files
 data/
 output/
+EDA_solution.ipynb
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
