@@ -1,7 +1,7 @@
 # Analytics Onboarding Task
 
 The purpose of this task is to
-1. ensure your coding environment is ready for primetime
+1. ensure your coding environment is ready for prime time
 1. give you an opportunity to showcase your skills
 1. give us a chance to collaborate on an analytics task
 
